@@ -20,10 +20,10 @@ function renderProducts() {
                         </p>
                     </div>
                     <div class="add-to-wishlist">
-                        <img src="../heart.png" alt="add to wish list">
+                        <img src="./heart.png" alt="add to wish list">
                     </div>
                     <div class="add-to-cart" onClick="addToCart(${product.id})">
-                        <img src="../bag-plus.png" alt="add to cart">
+                        <img src="./bag-plus.png" alt="add to cart">
                     </div>
                 </div>
             </div>
